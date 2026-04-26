@@ -33,3 +33,5 @@ build/
 
 ### VS Code ###
 .vscode/
+# Security: Ignore database and secret keys
+src/main/resources/application.properties
